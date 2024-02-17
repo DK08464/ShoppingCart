@@ -8,3 +8,4 @@ Procedure :
 6. Append the “Add to Cart” button.
 7. Use CSS to achieve a clean and visually appealing layout.
 8. Use Suitable colour combinations specific to the industry
+![image](https://github.com/DK08464/ShoppingCart/assets/121443975/6e5a9c69-43a0-47d5-b995-6243062b3262)
